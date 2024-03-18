@@ -2,6 +2,10 @@ article {
     font-family: "Signika";
 }
 
+header {
+    padding: 2px;
+}
+
 h1 {
     color: #DE412C;
     border: 4px solid #DE2CBA;
@@ -10,7 +14,8 @@ h1 {
 }
 
 h2 {
-    color: #DE2C50;
+    color: #C42D4B;
+    padding: 10px;
 }
 
 p {
